@@ -1,5 +1,5 @@
 {
-  "name": "tea-demonstration",
+  "name": "maksik-demonstration",
   "version": "1.0.0",
   "description": "Basic demonstration app",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "https://github.com/maksimusiik/tea-demonstration.git"
   },
   "dependencies": {
-    "tea-demonstration": "1.0.0",
+    "cheh-demonstration": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
