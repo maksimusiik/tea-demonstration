@@ -11,7 +11,7 @@
     "url": "https://github.com/maksimusiik/tea-demonstration.git"
   },
   "dependencies": {
-    "cheh-demonstration": "1.0.0",
+    "maksik-demonstration": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
