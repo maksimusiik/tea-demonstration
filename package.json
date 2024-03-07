@@ -1,6 +1,6 @@
 {
   "name": "maksik-demonstration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "maksik-demonstration",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "https://github.com/maksimusiik/tea-demonstration.git"
   },
   "dependencies": {
+    "maksik-demonstration": "1.0.2",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
